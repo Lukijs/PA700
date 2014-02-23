@@ -1,0 +1,7 @@
+git config --global user.name "Lukijs"
+git config --global user.email "sol-ja@live.com"
+mkdir ~/PA700
+cd ~/PA700
+git init
+git remote add origin https://github.com/Lukijs/PA700.git
+git push origin master
